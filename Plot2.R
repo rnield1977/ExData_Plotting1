@@ -1,0 +1,1 @@
+plot(epc$Time, as.numeric(as.character(epc$Global_active_power)), type="l", xlab="",ylab="Global Active Power (kilowatts)")
